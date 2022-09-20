@@ -50,6 +50,13 @@ The bar plot shows that people who took the drug still got sick, therefore, the 
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+table1 <- xtabs(~infected + treatment, data=Girls)
+rowPerc(table1)
+colPerc(table1)
+```
+
+The numerical summary shows that the percent of people who got aids while taking the drug was 3.69%. This means that very little people still got sick while taking the treatment.
 
 ## Inferential Results
 
