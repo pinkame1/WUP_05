@@ -71,3 +71,6 @@ Using the Fisher test , it shows that the odds ratio is 1.5439. This means that 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Throughout this we made bar plots, numerical summaries, and the inferential test which shows that the drug that gives you 1.5439 times more likey to get sick instead of preventing Aids.
+
